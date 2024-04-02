@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "3838008153",
+    "firebase_url": "https://mobsecproject-ce0f5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobsecproject-ce0f5",
+    "storage_bucket": "mobsecproject-ce0f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3838008153:android:26ba71343114dbe8510a48",
+        "android_client_info": {
+          "package_name": "com.ceyloncode.Jackson.MedicalChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3838008153-c5045seuu4tmdqgkie0jnb7h8go3gpd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ceyloncode.Jackson.MedicalChat",
+            "certificate_hash": "85b3783263c8136fc28a18e61e2d11b2246f94ee"
+          }
+        },
+        {
+          "client_id": "3838008153-8furpa81cvigh9bdveihq8eer35iith0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNE3Im_ASmTlR_69R4NQw6rjvG06kg2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3838008153-8furpa81cvigh9bdveihq8eer35iith0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3838008153:android:60282d16379d623e510a48",
+        "android_client_info": {
+          "package_name": "com.ceyloncode.teamxdevelopers.SuperChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3838008153-8furpa81cvigh9bdveihq8eer35iith0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNE3Im_ASmTlR_69R4NQw6rjvG06kg2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3838008153-8furpa81cvigh9bdveihq8eer35iith0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

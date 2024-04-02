@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.teamxdevelopers.SuperChat.app-mergeReleaseResources-93:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\motor\\OneDrive\\Desktop\\Year 2.2\\Jackson mobile security\\Final_MobSec_ChatApp\\ChatHere_Code_WithStringEncryptionFunction\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "43",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.teamxdevelopers.SuperChat.app-mergeReleaseResources-93:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\motor\\OneDrive\\Desktop\\Year 2.2\\Jackson mobile security\\GithubProject\\ChatHere_Code\\app\\src\\main\\res\\values-small\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "43",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "490",
+                        "endColumns": "43",
+                        "endOffsets": "529"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\motor\\OneDrive\\Desktop\\Year 2.2\\Jackson mobile security\\GithubProject\\ChatHere_Code\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "from": {
+                        "startLines": "11,4,6,5,8,7,12,10,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "386,57,141,99,233,184,438,335,285",
+                        "endColumns": "51,41,42,41,51,48,53,50,49",
+                        "endOffsets": "433,94,179,136,280,228,487,381,330"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,149,192,234,286,335,389,440",
+                        "endColumns": "51,41,42,41,51,48,53,50,49",
+                        "endOffsets": "102,144,187,229,281,330,384,435,485"
+                    }
+                }
+            ]
+        }
+    ]
+}

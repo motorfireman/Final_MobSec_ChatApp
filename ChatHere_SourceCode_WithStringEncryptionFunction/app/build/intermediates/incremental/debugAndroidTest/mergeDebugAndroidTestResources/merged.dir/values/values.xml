@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="ignore_battery_optimizations_dialog">true</bool>
+    <integer name="max_broadcast_users_count">300</integer>
+    <integer name="max_group_call_count">11</integer>
+    <integer name="max_group_users_count">500</integer>
+    <integer name="max_status_video_time">30</integer>
+    <string name="account_link" translatable="false">www.google.com</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="agora_app_id" translatable="false">e399dcc4bde349c886862a19cbbe2e9d</string>
+    <string name="app_folder_name" translatable="false">Super Chat</string>
+    <string name="app_name" translatable="false">ChatHere</string>
+    <string name="banner_unit_id_main" translatable="false"/>
+    <string name="banner_unit_id_new_chat" translatable="false"/>
+    <string name="email" translatable="false">https://www.gmail.com</string>
+    <string name="encryptionWeb" translatable="false">https://www.google.com</string>
+    <string name="encryption_type" translatable="false">AES</string>
+    <string name="fb_account" translatable="false">https://www.facebook.com</string>
+    <string name="foursquare_client_id" translatable="false">3TT4JDOWJ3J1MK5RASSWAHECPUEJQUZQAAGL4DSMAMYKBISW</string>
+    <string name="foursquare_client_secret" translatable="false">C1JRUA1N3ZQNJHVC154DS4QRSLJDQDCNLUOLY3FZ4SK3SSSE</string>
+    <string name="group_invite_host" translatable="false">www.google.com</string>
+    <string name="interstitial_ad_id" translatable="false"/>
+    <string name="maps_api_key" translatable="false">AIzaSyAnPZ5-c0KCTMKeoGtEduq2K2EURofChlY</string>
+    <string name="memojiBaseUrl" translatable="false">https://www.google.com</string>
+    <string name="website" translatable="false">https://www.google.com</string>
+    <string name="your_company_name" translatable="false">SIT TEAM 15</string>
+    <string name="yt_account" translatable="false">https://www.youtube.com</string>
+</resources>

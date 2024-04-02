@@ -1,0 +1,100 @@
+com.teamxdevelopers.SuperChat.app-jetified-firebase-messaging-23.1.2-0 C:\Users\motor\.gradle\caches\transforms-3\0019feae7b8a7ad782d924844dc74edf\transformed\jetified-firebase-messaging-23.1.2\res
+com.teamxdevelopers.SuperChat.app-jetified-storage-chooser-2.0.4.4a-1 C:\Users\motor\.gradle\caches\transforms-3\025a994eca8716aaf3604696d2af11fc\transformed\jetified-storage-chooser-2.0.4.4a\res
+com.teamxdevelopers.SuperChat.app-jetified-play-services-maps-17.0.0-2 C:\Users\motor\.gradle\caches\transforms-3\087b2a180ee7d98c0bd853aaf4063c02\transformed\jetified-play-services-maps-17.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-quickpermissions-kotlin-0.4.0-3 C:\Users\motor\.gradle\caches\transforms-3\0a78a2540d1f963612f62345165835cb\transformed\jetified-quickpermissions-kotlin-0.4.0\res
+com.teamxdevelopers.SuperChat.app-jetified-startup-runtime-1.0.0-4 C:\Users\motor\.gradle\caches\transforms-3\0aa635d2220679ae133479bafd9b0b5d\transformed\jetified-startup-runtime-1.0.0\res
+com.teamxdevelopers.SuperChat.app-cardview-1.0.0-5 C:\Users\motor\.gradle\caches\transforms-3\0b261ee5b557df102642bcfae02c73c9\transformed\cardview-1.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-code-scanner-2.3.2-6 C:\Users\motor\.gradle\caches\transforms-3\0d97ec831e8762ba1ab578eb53d6b8b6\transformed\jetified-code-scanner-2.3.2\res
+com.teamxdevelopers.SuperChat.app-jetified-foundation-android-0.15.2-7 C:\Users\motor\.gradle\caches\transforms-3\140862eb79c2ad45607146c1ffc76b7d\transformed\jetified-foundation-android-0.15.2\res
+com.teamxdevelopers.SuperChat.app-jetified-lifecycle-process-2.4.0-8 C:\Users\motor\.gradle\caches\transforms-3\14d15f6360606dc77ad6bc19e88d85c7\transformed\jetified-lifecycle-process-2.4.0\res
+com.teamxdevelopers.SuperChat.app-jetified-play-services-ads-lite-22.0.0-9 C:\Users\motor\.gradle\caches\transforms-3\18e431b00f8947de20e92bafac1d45ed\transformed\jetified-play-services-ads-lite-22.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-dexter-6.2.2-10 C:\Users\motor\.gradle\caches\transforms-3\1a9f903259468f34b60ca86837ad6fd6\transformed\jetified-dexter-6.2.2\res
+com.teamxdevelopers.SuperChat.app-jetified-play-services-base-18.1.0-11 C:\Users\motor\.gradle\caches\transforms-3\1af9ed17b8b4edacb59c2b783d6224c9\transformed\jetified-play-services-base-18.1.0\res
+com.teamxdevelopers.SuperChat.app-jetified-ui-graphics-1.0.0-rc01-12 C:\Users\motor\.gradle\caches\transforms-3\1b495f51847fbf6b668bb5900f6199ba\transformed\jetified-ui-graphics-1.0.0-rc01\res
+com.teamxdevelopers.SuperChat.app-drawerlayout-1.1.1-13 C:\Users\motor\.gradle\caches\transforms-3\1f4d1a0e2d6cca587df1ae9351083ac3\transformed\drawerlayout-1.1.1\res
+com.teamxdevelopers.SuperChat.app-lifecycle-viewmodel-2.3.1-14 C:\Users\motor\.gradle\caches\transforms-3\21984a949409920f8eb648f7dff87530\transformed\lifecycle-viewmodel-2.3.1\res
+com.teamxdevelopers.SuperChat.app-jetified-RxFirebase-1.5.6-15 C:\Users\motor\.gradle\caches\transforms-3\245a98458a17f5bf5669bdecf5e72309\transformed\jetified-RxFirebase-1.5.6\res
+com.teamxdevelopers.SuperChat.app-biometric-1.1.0-16 C:\Users\motor\.gradle\caches\transforms-3\29d4b6dc402b7e1d42db27347c06120c\transformed\biometric-1.1.0\res
+com.teamxdevelopers.SuperChat.app-jetified-ui-unit-1.0.0-rc01-17 C:\Users\motor\.gradle\caches\transforms-3\2a3cbf98cd5e79ff329362a516b6d75f\transformed\jetified-ui-unit-1.0.0-rc01\res
+com.teamxdevelopers.SuperChat.app-jetified-AXMemojiView-1.1.0-18 C:\Users\motor\.gradle\caches\transforms-3\2ece3822b1503de6cc2612eb7b03f8b3\transformed\jetified-AXMemojiView-1.1.0\res
+com.teamxdevelopers.SuperChat.app-jetified-pythia-android-0.15.2-19 C:\Users\motor\.gradle\caches\transforms-3\2f6278e36a34fe8fd70d4870baf2c3fd\transformed\jetified-pythia-android-0.15.2\res
+com.teamxdevelopers.SuperChat.app-preference-1.1.1-20 C:\Users\motor\.gradle\caches\transforms-3\3062b2985b80554f59dc83b59297ee16\transformed\preference-1.1.1\res
+com.teamxdevelopers.SuperChat.app-navigation-fragment-2.3.3-21 C:\Users\motor\.gradle\caches\transforms-3\30dd394ed209ca732e7011fed17352cb\transformed\navigation-fragment-2.3.3\res
+com.teamxdevelopers.SuperChat.app-percentlayout-1.0.0-22 C:\Users\motor\.gradle\caches\transforms-3\30dd7ff2b32cced7bc5ed995a0a33541\transformed\percentlayout-1.0.0\res
+com.teamxdevelopers.SuperChat.app-navigation-runtime-2.3.3-23 C:\Users\motor\.gradle\caches\transforms-3\4127a91b4d97d79e88f10882e4c536ec\transformed\navigation-runtime-2.3.3\res
+com.teamxdevelopers.SuperChat.app-jetified-emoji2-1.0.0-24 C:\Users\motor\.gradle\caches\transforms-3\41820c828236dbf2c386877c3c0ea721\transformed\jetified-emoji2-1.0.0\res
+com.teamxdevelopers.SuperChat.app-coordinatorlayout-1.0.0-25 C:\Users\motor\.gradle\caches\transforms-3\41ac04bedaaa04ea761035de610b2395\transformed\coordinatorlayout-1.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-circleimageview-3.0.0-26 C:\Users\motor\.gradle\caches\transforms-3\474c5a57117bb89a278685d3eb47b237\transformed\jetified-circleimageview-3.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-pictureselector-v3.10.6-27 C:\Users\motor\.gradle\caches\transforms-3\4ae1889e5eb4b241f364fcd3681b1b64\transformed\jetified-pictureselector-v3.10.6\res
+com.teamxdevelopers.SuperChat.app-appcompat-1.4.1-28 C:\Users\motor\.gradle\caches\transforms-3\4b2afbc6af8e34c6cdc7cbfe14939b20\transformed\appcompat-1.4.1\res
+com.teamxdevelopers.SuperChat.app-jetified-common-android-0.15.2-29 C:\Users\motor\.gradle\caches\transforms-3\4cfd45c41f09271c26da31988c66993b\transformed\jetified-common-android-0.15.2\res
+com.teamxdevelopers.SuperChat.app-core-1.9.0-30 C:\Users\motor\.gradle\caches\transforms-3\4d24f32b8b4721cd5d0e7682ea9cc0f3\transformed\core-1.9.0\res
+com.teamxdevelopers.SuperChat.app-jetified-core-1.10.0-31 C:\Users\motor\.gradle\caches\transforms-3\4eb23ebdd692c7b2bbbd544632533e4a\transformed\jetified-core-1.10.0\res
+com.teamxdevelopers.SuperChat.app-jetified-ui-geometry-1.0.0-rc01-32 C:\Users\motor\.gradle\caches\transforms-3\50a581b0735cae554d91e7cf4f967ac2\transformed\jetified-ui-geometry-1.0.0-rc01\res
+com.teamxdevelopers.SuperChat.app-jetified-ccp-2.4.0-33 C:\Users\motor\.gradle\caches\transforms-3\5951244e5b8d9026a4c3a789ad69675a\transformed\jetified-ccp-2.4.0\res
+com.teamxdevelopers.SuperChat.app-jetified-annotation-experimental-1.3.0-34 C:\Users\motor\.gradle\caches\transforms-3\5a5841099b0d4c8136c490898f382e63\transformed\jetified-annotation-experimental-1.3.0\res
+com.teamxdevelopers.SuperChat.app-media-1.0.0-35 C:\Users\motor\.gradle\caches\transforms-3\5d499e2bc7b047d925d98a82eb70e3d5\transformed\media-1.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-emoji2-views-helper-1.0.0-36 C:\Users\motor\.gradle\caches\transforms-3\5dc411e08ff258f887b1f24ff521c3f6\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-circularstatusview-1.0.1-37 C:\Users\motor\.gradle\caches\transforms-3\5edd041071e78d7319b28ae29ce69b8e\transformed\jetified-circularstatusview-1.0.1\res
+com.teamxdevelopers.SuperChat.app-jetified-record-view-2.0.1-38 C:\Users\motor\.gradle\caches\transforms-3\649bb53615d957a1c233b8e6491bfb90\transformed\jetified-record-view-2.0.1\res
+com.teamxdevelopers.SuperChat.app-jetified-crypto-android-7.3.2-39 C:\Users\motor\.gradle\caches\transforms-3\6bb4e0872cb28702501a5d686f2ef076\transformed\jetified-crypto-android-7.3.2\res
+com.teamxdevelopers.SuperChat.app-jetified-pythia-android-0.3.7-40 C:\Users\motor\.gradle\caches\transforms-3\6cf18df03aa40a9d3377c31e49ba6106\transformed\jetified-pythia-android-0.3.7\res
+com.teamxdevelopers.SuperChat.app-jetified-savedstate-1.1.0-41 C:\Users\motor\.gradle\caches\transforms-3\6d8f880216662da3abc41a5c624648af\transformed\jetified-savedstate-1.1.0\res
+com.teamxdevelopers.SuperChat.app-work-runtime-2.7.1-42 C:\Users\motor\.gradle\caches\transforms-3\73bdbcb4474994444daadb0c2a2f9d7a\transformed\work-runtime-2.7.1\res
+com.teamxdevelopers.SuperChat.app-jetified-androidbuttonprogress-1.0.2-43 C:\Users\motor\.gradle\caches\transforms-3\76c12c5ad5fa202b4e967044e78382d1\transformed\jetified-androidbuttonprogress-1.0.2\res
+com.teamxdevelopers.SuperChat.app-jetified-Android-Image-Cropper-2.1.1-44 C:\Users\motor\.gradle\caches\transforms-3\77bb807635124ef084c5cf26ae67b147\transformed\jetified-Android-Image-Cropper-2.1.1\res
+com.teamxdevelopers.SuperChat.app-jetified-AutoFitEditText-53238e2d29-45 C:\Users\motor\.gradle\caches\transforms-3\77e02e9a35d83b90a0a748e39ba7fc97\transformed\jetified-AutoFitEditText-53238e2d29\res
+com.teamxdevelopers.SuperChat.app-jetified-ui-util-1.0.0-rc01-46 C:\Users\motor\.gradle\caches\transforms-3\781a7a0607c067e395e0319ab2f54997\transformed\jetified-ui-util-1.0.0-rc01\res
+com.teamxdevelopers.SuperChat.app-jetified-hidely-1.0.0-47 C:\Users\motor\.gradle\caches\transforms-3\7b08c2ac474aca5e8654e446bd3710cb\transformed\jetified-hidely-1.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-firebase-common-20.3.2-48 C:\Users\motor\.gradle\caches\transforms-3\7b306bc561a00edad0c44ddf95b11bf9\transformed\jetified-firebase-common-20.3.2\res
+com.teamxdevelopers.SuperChat.app-jetified-glide-4.16.0-49 C:\Users\motor\.gradle\caches\transforms-3\86bb66d624a2dd2f8e15db0c736b81a8\transformed\jetified-glide-4.16.0\res
+com.teamxdevelopers.SuperChat.app-jetified-fastscroll-0.2.5-50 C:\Users\motor\.gradle\caches\transforms-3\8add1aad12f124c32dc5b7a2c8db9166\transformed\jetified-fastscroll-0.2.5\res
+com.teamxdevelopers.SuperChat.app-jetified-expandablerecyclerview-1.3-51 C:\Users\motor\.gradle\caches\transforms-3\8cc080188511b445364af1ab2585f9b6\transformed\jetified-expandablerecyclerview-1.3\res
+com.teamxdevelopers.SuperChat.app-jetified-Matisse-0.5.3-beta3-fix1-52 C:\Users\motor\.gradle\caches\transforms-3\8e2aa3f4d4629989bac73dd660bd94d8\transformed\jetified-Matisse-0.5.3-beta3-fix1\res
+com.teamxdevelopers.SuperChat.app-jetified-musicwave-1.0-53 C:\Users\motor\.gradle\caches\transforms-3\8f730308d0f4d816f9f3943c41b840cd\transformed\jetified-musicwave-1.0\res
+com.teamxdevelopers.SuperChat.app-jetified-runtime-1.0.0-rc01-54 C:\Users\motor\.gradle\caches\transforms-3\8fc473b21e45251758f9d1162108b510\transformed\jetified-runtime-1.0.0-rc01\res
+com.teamxdevelopers.SuperChat.app-jetified-core-ktx-1.9.0-55 C:\Users\motor\.gradle\caches\transforms-3\91553b28408f6e8b83fc8fae9b107eb0\transformed\jetified-core-ktx-1.9.0\res
+com.teamxdevelopers.SuperChat.app-jetified-firebase-ml-natural-language-translate-22.0.0-56 C:\Users\motor\.gradle\caches\transforms-3\93c7863dc9d8fa52798f4a1e53fea9d1\transformed\jetified-firebase-ml-natural-language-translate-22.0.0\res
+com.teamxdevelopers.SuperChat.app-work-runtime-ktx-2.7.0-57 C:\Users\motor\.gradle\caches\transforms-3\972b6d41ba6629b720044973c6f5ccf1\transformed\work-runtime-ktx-2.7.0\res
+com.teamxdevelopers.SuperChat.app-jetified-play-services-basement-18.1.0-58 C:\Users\motor\.gradle\caches\transforms-3\99f261e3d22ea75d4fab13519e370660\transformed\jetified-play-services-basement-18.1.0\res
+com.teamxdevelopers.SuperChat.app-jetified-firebase-inappmessaging-display-20.1.2-59 C:\Users\motor\.gradle\caches\transforms-3\9e10cc9fad34f8f1ecd7053b6684a15d\transformed\jetified-firebase-inappmessaging-display-20.1.2\res
+com.teamxdevelopers.SuperChat.app-jetified-activity-1.3.1-60 C:\Users\motor\.gradle\caches\transforms-3\a0023927c1fe089973dc4e788cc928ee\transformed\jetified-activity-1.3.1\res
+com.teamxdevelopers.SuperChat.app-jetified-lottie-5.2.0-61 C:\Users\motor\.gradle\caches\transforms-3\a1e6b576e2c96a818e893438496411b6\transformed\jetified-lottie-5.2.0\res
+com.teamxdevelopers.SuperChat.app-recyclerview-1.2.1-62 C:\Users\motor\.gradle\caches\transforms-3\a205826974cfe140c88665113fd689ce\transformed\recyclerview-1.2.1\res
+com.teamxdevelopers.SuperChat.app-jetified-emoji-rain-0.1.1-63 C:\Users\motor\.gradle\caches\transforms-3\aa78852d9f6bc26ba06e435a7738b820\transformed\jetified-emoji-rain-0.1.1\res
+com.teamxdevelopers.SuperChat.app-jetified-materialsearchview-1.4.0-64 C:\Users\motor\.gradle\caches\transforms-3\afd031607902f4519d1ccf80664dcd6c\transformed\jetified-materialsearchview-1.4.0\res
+com.teamxdevelopers.SuperChat.app-browser-1.4.0-65 C:\Users\motor\.gradle\caches\transforms-3\b5b427eb553abd6a05933776265e4d17\transformed\browser-1.4.0\res
+com.teamxdevelopers.SuperChat.app-lifecycle-runtime-2.4.0-66 C:\Users\motor\.gradle\caches\transforms-3\baca96079dd9a23733f20a80bbbd368d\transformed\lifecycle-runtime-2.4.0\res
+com.teamxdevelopers.SuperChat.app-navigation-ui-2.3.3-67 C:\Users\motor\.gradle\caches\transforms-3\bbc733512f63e45647b47dc29fd820c3\transformed\navigation-ui-2.3.3\res
+com.teamxdevelopers.SuperChat.app-jetified-loading-dots-1.0.2-68 C:\Users\motor\.gradle\caches\transforms-3\bed3beea0beb17229a474d21e1e8437d\transformed\jetified-loading-dots-1.0.2\res
+com.teamxdevelopers.SuperChat.app-jetified-fastscroll-1.1.2-69 C:\Users\motor\.gradle\caches\transforms-3\c3b89a62a45532631d02155e39cc4096\transformed\jetified-fastscroll-1.1.2\res
+com.teamxdevelopers.SuperChat.app-jetified-play-services-ads-22.0.0-70 C:\Users\motor\.gradle\caches\transforms-3\c3bd0ecfbeb37cbdf861472e87981dd7\transformed\jetified-play-services-ads-22.0.0\res
+com.teamxdevelopers.SuperChat.app-navigation-common-2.3.3-71 C:\Users\motor\.gradle\caches\transforms-3\c46709fff3836e12c264b701c2884629\transformed\navigation-common-2.3.3\res
+com.teamxdevelopers.SuperChat.app-fragment-1.3.6-72 C:\Users\motor\.gradle\caches\transforms-3\ca4c8a80c4471b0d681db3c37304d7d5\transformed\fragment-1.3.6\res
+com.teamxdevelopers.SuperChat.app-jetified-om-recorder-1.1.5-73 C:\Users\motor\.gradle\caches\transforms-3\d05695a51128efd3876bb6dc93da10b6\transformed\jetified-om-recorder-1.1.5\res
+com.teamxdevelopers.SuperChat.app-jetified-ucrop-v3.10.6-74 C:\Users\motor\.gradle\caches\transforms-3\d19e14968411b498551cb6b09d646e56\transformed\jetified-ucrop-v3.10.6\res
+com.teamxdevelopers.SuperChat.app-transition-1.4.1-75 C:\Users\motor\.gradle\caches\transforms-3\d2be3313f5e6a2c8301dc15a124f1b57\transformed\transition-1.4.1\res
+com.teamxdevelopers.SuperChat.app-jetified-chip-navigation-bar-1.4.0-76 C:\Users\motor\.gradle\caches\transforms-3\d2e496a7b3c1a8e212e3a7a242932669\transformed\jetified-chip-navigation-bar-1.4.0\res
+com.teamxdevelopers.SuperChat.app-jetified-shimmerlayout-2.1.0-77 C:\Users\motor\.gradle\caches\transforms-3\d4247f8be4ae3c0d3939f3dee5431d0a\transformed\jetified-shimmerlayout-2.1.0\res
+com.teamxdevelopers.SuperChat.app-jetified-AXEmojiView-1.5.2-78 C:\Users\motor\.gradle\caches\transforms-3\d60c7d96a5e95d7498242620fa173dc9\transformed\jetified-AXEmojiView-1.5.2\res
+com.teamxdevelopers.SuperChat.app-material-1.0.0-79 C:\Users\motor\.gradle\caches\transforms-3\d7d2c65d0964f8a740a937797d531a88\transformed\material-1.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-expandablecheckrecyclerview-1.4-80 C:\Users\motor\.gradle\caches\transforms-3\d824ba32c9f4a2a20ef4bbdda20802c9\transformed\jetified-expandablecheckrecyclerview-1.4\res
+com.teamxdevelopers.SuperChat.app-jetified-appcompat-resources-1.4.1-81 C:\Users\motor\.gradle\caches\transforms-3\d9e61b40972d3d37c7b0dd77e0f84599\transformed\jetified-appcompat-resources-1.4.1\res
+com.teamxdevelopers.SuperChat.app-jetified-sdk-android-7.3.2-82 C:\Users\motor\.gradle\caches\transforms-3\dc1457da9fcbe23d1bb267066ab89d22\transformed\jetified-sdk-android-7.3.2\res
+com.teamxdevelopers.SuperChat.app-jetified-viewpager2-1.0.0-83 C:\Users\motor\.gradle\caches\transforms-3\dfa9b7b2b7f8cd0e2171658f3ba5a422\transformed\jetified-viewpager2-1.0.0\res
+com.teamxdevelopers.SuperChat.app-jetified-MultiContactPicker-1.8.5-84 C:\Users\motor\.gradle\caches\transforms-3\e0332e23fd72529193db1582b8ac6a6a\transformed\jetified-MultiContactPicker-1.8.5\res
+com.teamxdevelopers.SuperChat.app-jetified-ratchet-android-0.15.2-85 C:\Users\motor\.gradle\caches\transforms-3\ecb1b463b18544b8695d40a899ee05e0\transformed\jetified-ratchet-android-0.15.2\res
+com.teamxdevelopers.SuperChat.app-jetified-full-sdk-3.3.0-86 C:\Users\motor\.gradle\caches\transforms-3\f0a608fcf9115ac32965d0d9628097d4\transformed\jetified-full-sdk-3.3.0\res
+com.teamxdevelopers.SuperChat.app-constraintlayout-2.1.4-87 C:\Users\motor\.gradle\caches\transforms-3\fb121320c42ac911ccd4a554ab8c53fb\transformed\constraintlayout-2.1.4\res
+com.teamxdevelopers.SuperChat.app-res-88 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app\build\generated\crashlytics\res\debug
+com.teamxdevelopers.SuperChat.app-google-services-89 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app\build\generated\res\google-services\debug
+com.teamxdevelopers.SuperChat.app-resValues-90 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app\build\generated\res\resValues\debug
+com.teamxdevelopers.SuperChat.app-rs-91 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app\build\generated\res\rs\debug
+com.teamxdevelopers.SuperChat.app-mergeDebugResources-92 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.teamxdevelopers.SuperChat.app-mergeDebugResources-93 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.teamxdevelopers.SuperChat.app-merged_res-94 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app\build\intermediates\merged_res\debug
+com.teamxdevelopers.SuperChat.app-debug-95 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app\src\debug\res
+com.teamxdevelopers.SuperChat.app-main-96 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app\src\main\res
+com.teamxdevelopers.SuperChat.app-packaged_res-97 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\cameraView\build\intermediates\packaged_res\debug
+com.teamxdevelopers.SuperChat.app-packaged_res-98 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\imageeditengine\build\intermediates\packaged_res\debug
+com.teamxdevelopers.SuperChat.app-packaged_res-99 C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\stories-progress-view\build\intermediates\packaged_res\debug

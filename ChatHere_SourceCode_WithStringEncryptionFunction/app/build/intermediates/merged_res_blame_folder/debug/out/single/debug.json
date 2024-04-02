@@ -1,0 +1,1514 @@
+[
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_ic_noti_icon.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/ic_noti_icon.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_save_e2_e.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_save_e2_e.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_admin_24.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_admin_24.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_person.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_image_placeholder.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/image_placeholder.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/anim_slide_out_bottom.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_change_number.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_change_number.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_attach_gallery.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/attach_gallery.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_fb.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_fb.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_voice_message.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_voice_message.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_restore_in_progress.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_restore_in_progress.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_baseline_lock_20.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_baseline_lock_20.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/anim_slide_in_bottom.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_forward.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_forward.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_scroll_circle_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/scroll_circle_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_splash_image_dr.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/splash_image_dr.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_control_panel.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_control_panel.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_group_call_view.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_group_call_view.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_reply_status_bottomsheet.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/reply_status_bottomsheet.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_baseline_call_end_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/baseline_call_end_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_share_group_link.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_share_group_link.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_new_notification.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_new_notification.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/navigation_nav_settings.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/navigation/nav_settings.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_contact.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_contact.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_media.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_media.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_image_view.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_image_view.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_smart_rep.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_smart_rep.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_main.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_music_note.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_music_note.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_action_chat_list.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_action_chat_list.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_verify_phone.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_verify_phone.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_call_made.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_call_made.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_yt.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_yt.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_unread_count_text_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/unread_count_text_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_phone_white.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_phone_white.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_background_hd.jpg.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/background_hd.jpg"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_attach_audio.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/attach_audio.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_search.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_rounded_corner_green.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/rounded_corner_green.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_about_fragment.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/about_fragment.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_status_header.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_status_header.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_chatboxbg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/chatboxbg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_photo_camera.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_photo_camera.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_mobsecchatapp_foreground.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_mobsecchatapp_foreground.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_new_edit.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_new_edit.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_gallery.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_gallery.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_new_call.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_new_call.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_places_picker.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_places_picker.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_calling_bg_down.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/calling_bg_down.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_main_settings_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/main_settings_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_privacy_policy_fragment.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/privacy_policy_fragment.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-night-xxhdpi_background_hd.jpg.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-night-xxhdpi/background_hd.jpg"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_attach_contact.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/attach_contact.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_backup.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_backup.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_safe_lock.json.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/safe_lock.json"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/xml_pref_notification.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/xml/pref_notification.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic__warning.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic__warning.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_location.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_location.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_lockscreen.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_lockscreen.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_watch_later_green.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_watch_later_green.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_new_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_new_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_popupwindow.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/popupwindow.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_edit_white.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_edit_white.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_group_admin_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/group_admin_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_enable2sv.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_enable2sv.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-night-mdpi_background_hd.jpg.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-night-mdpi/background_hd.jpg"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_right_arrow_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_right_arrow_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_content_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/content_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_basket_red.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/basket_red.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_day.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_day.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_contact_details.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_contact_details.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_video_view.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_video_view.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_attachments_items.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/attachments_items.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_account.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_accept_invite_bottom_sheet.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/accept_invite_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_new_security.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_new_security.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_check_read.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_check_read.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_attach_file.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/attach_file.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_status.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_status.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_logged_out.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_logged_out.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/xml_pref_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/xml/pref_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_mic_icon.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/mic_icon.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_background_hd.jpg.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/background_hd.jpg"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_user_details.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_user_details.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_phone_call_alt.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_phone_call_alt.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_message_img.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_message_img.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_enter_username.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_enter_username.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_new_privacy_policy.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_new_privacy_policy.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_recv_bg_mic_blue.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/recv_bg_mic_blue.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_insert_emoticon_black.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_insert_emoticon_black.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_btn_scroll_icon.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/btn_scroll_icon.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_action_calls.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_action_calls.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_delete_ic.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/delete_ic.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_attach_location.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/attach_location.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-night-hdpi_background_hd.jpg.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-night-hdpi/background_hd.jpg"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_videocam.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_videocam.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_popup_menu_admin_options.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/popup_menu_admin_options.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/navigation_nav_signup.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/navigation/nav_signup.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_new_group.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_new_group.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_privacy.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_privacy.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_group_add.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_group_add.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_rounded_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/rounded_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_clear.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_clear.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_phone_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_phone_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_baseline_call_end_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/baseline_call_end_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_authentication.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_authentication.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_content_user_details.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/content_user_details.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_delete_dialog.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_delete_dialog.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_main.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_select_contact_numbers.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_select_contact_numbers.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_attach_location.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/attach_location.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_sticker.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_sticker.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_popup_menu_broadcast_options.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/popup_menu_broadcast_options.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_action_my_statuses.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_action_my_statuses.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_ic_noti_icon.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/ic_noti_icon.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_dialog_group_title.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/dialog_group_title.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_item_reply.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/item_reply.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_qr_code.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/qr_code.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_color_lens.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_color_lens.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_received_message.9.png.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/received_message.9.png"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_parital_group_user.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_parital_group_user.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_settings.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_main_settings.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_main_settings.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_headset.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_headset.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_pause.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_background_hd.jpg.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/background_hd.jpg"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_settings.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_user_details.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_user_details.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_remove_red_eye.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_remove_red_eye.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_emoji_red_heart.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/emoji_red_heart.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxxhdpi_baseline_phone_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxxhdpi/baseline_phone_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_gallery_action.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_gallery_action.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_chats.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_chats.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_file_upload.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_file_upload.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_security.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_security.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_forward.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_forward.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_attach_gallery.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/attach_gallery.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_baseline_fingerprint_24.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_baseline_fingerprint_24.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_typing_layout.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/typing_layout.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_setup_user.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_setup_user.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/font_oswald.ttf.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/font/oswald.ttf"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_places_bottomsheet.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/places_bottomsheet.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_baseline_phone_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/baseline_phone_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_security_authentication.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_security_authentication.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_qr.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_qr.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_call_end_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_call_end_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_day_raw.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_day_raw.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_enable2sv.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_enable2sv.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_verified_24.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_verified_24.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_keyboard_arrow_left.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_keyboard_arrow_left.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_btn_play_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/btn_play_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_reply.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_reply.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_scrim.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_scrim.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_attach_gallery.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/attach_gallery.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_my_location_black_24dp.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_my_location_black_24dp.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_message_voice.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_message_voice.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_attach_contact.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/attach_contact.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_maintenance.json.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/maintenance.json"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_new_call.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_new_call.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_not_interested_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_not_interested_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_welcome_lottie_animation.json.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/welcome_lottie_animation.json"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_asd.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/asd.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_not_supported.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_not_supported.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_info.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_attach_camera.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/attach_camera.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_insert_drive_file.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_insert_drive_file.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_volume_up.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_volume_up.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_exit_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_exit_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_calls.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_calls.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_videocam_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_videocam_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_media_gallery.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_media_gallery.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_img_activity.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_img_activity.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_line_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_line_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_call_received.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_call_received.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_update_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_update_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_location_on.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_location_on.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_mobsecchatapp_background.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_mobsecchatapp_background.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_baseline_phone_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/baseline_phone_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_audio.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_audio.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_keyboard_arrow_up.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_keyboard_arrow_up.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_attach_audio.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/attach_audio.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_holding_phone.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_holding_phone.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_baseline_keyboard_24.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_baseline_keyboard_24.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_delate_account.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_delate_account.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_privacy_policy_dialog.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/privacy_policy_dialog.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_message_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_message_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_enter_username.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_enter_username.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_send.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_two_step_verification.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_two_step_verification.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_check_image_overlay.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/check_image_overlay.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_attach_camera.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/attach_camera.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_received_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_received_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_circle_bg_blue.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/circle_bg_blue.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_language.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_chats.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_chats.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_btn_delete.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_btn_delete.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxxhdpi_baseline_call_end_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxxhdpi/baseline_call_end_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_message_img.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_message_img.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_check.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_place.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_place.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_content_copy.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_content_copy.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_recording_red_dot.json.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/recording_red_dot.json"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_security.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_security.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_keyboard_arrow_right.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_keyboard_arrow_right.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_not_interested.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_not_interested.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_seen_by.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_seen_by.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_broadcast_with_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_broadcast_with_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_file_download.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_file_download.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_phone_blue.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_phone_blue.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_volume_off.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_volume_off.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_ic_noti_icon.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/ic_noti_icon.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_insert_link.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_insert_link.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_end_call.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_end_call.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_baseline_call_end_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/baseline_call_end_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_finding.json.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/finding.json"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_logo.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_logo.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_attach_audio.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/attach_audio.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_new_call.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_new_call.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_baseline_call_end_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/baseline_call_end_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_mic_sent_with_stroke.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_mic_sent_with_stroke.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_update.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_update.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_attach_contact.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/attach_contact.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-night-xhdpi_background_hd.jpg.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-night-xhdpi/background_hd.jpg"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_seen_by_bottomsheet.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/seen_by_bottomsheet.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_edit.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fagment_profile_settings.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fagment_profile_settings.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_arrow_forward.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_arrow_forward.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_attach_location.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/attach_location.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_sticker.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_sticker.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_message_video.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_message_video.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_profile_photo.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_profile_photo.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_background_hd.jpg.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/background_hd.jpg"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_calling_bg_up.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/calling_bg_up.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_call.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_call.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_insert_emoticon_white.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_insert_emoticon_white.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_update.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_update.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_acc_delate.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_acc_delate.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_attach_file.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/attach_file.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_done_all.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_done_all.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_forward.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_forward.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_attach_file.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/attach_file.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_line_call.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_line_call.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_maintenance.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_maintenance.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_play_arrow.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_play_arrow.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_progress_dialog_layout.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/progress_dialog_layout.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_profile_photo_dialog.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_profile_photo_dialog.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_baseline_phone_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/baseline_phone_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_group_participant.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_group_participant.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_new_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_new_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_account_disable.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_account_disable.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_policy_24px.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_policy_24px.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_message_video.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_message_video.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_text_status.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_text_status.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_videocam_blue.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_videocam_blue.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_attach_camera.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/attach_camera.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_world_map.json.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/world_map.json"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_line_setting.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_line_setting.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_camera.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_agree_privacy_policy.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_agree_privacy_policy.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_key.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_key.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_qr_code.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_qr_code.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_group_event.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_group_event.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_contact_details.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_contact_details.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bottomsheet_dialog_bg_white.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bottomsheet_dialog_bg_white.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_account_verification.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_account_verification.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_attach_location.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/attach_location.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_phone.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_dialog_ignore_battery.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/dialog_ignore_battery.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_deleted_message.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_deleted_message.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_attach_camera.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/attach_camera.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xhdpi_attach_audio.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xhdpi/attach_audio.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_file.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_file.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_person_big.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_person_big.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_broadcast.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_broadcast.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_2step_verification.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_2step_verification.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_deleted_message.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_deleted_message.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_contact_picker.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_contact_picker.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_message_text.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_message_text.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_profile_photo.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_profile_photo.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_camera_preview.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_camera_preview.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_progress_tone.wav.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/progress_tone.wav"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_contact.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_contact.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_keyboard_arrow_down.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_keyboard_arrow_down.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_sticker.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_sticker.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_bottom.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_bottom.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_email.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_chat.json.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/chat.json"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_person_add.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_person_add.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_broadcast_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_broadcast_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_status.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_status.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_new_group_selected_user.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_new_group_selected_user.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_attach_file.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/attach_file.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_two_s_v.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_two_s_v.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_call_end.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_call_end.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_rounded_corner_orange.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/rounded_corner_orange.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_block.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_block.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_content_backup_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/content_backup_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxxhdpi_ic_noti_icon.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxxhdpi/ic_noti_icon.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_splash.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_enter_phone_number.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_enter_phone_number.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_remove_circle_outline.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_remove_circle_outline.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_tv.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_tv.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_audio.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_audio.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_line_story.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_line_story.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_dialog_bottomsheet_agree_privacy_policy.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/dialog_bottomsheet_agree_privacy_policy.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_user_img.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/user_img.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_btn_rounded_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/btn_rounded_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_account_circle.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_account_circle.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_circle_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_mic_read_with_stroke.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_mic_read_with_stroke.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_message_text.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_message_text.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-hdpi_ic_noti_icon.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-hdpi/ic_noti_icon.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_group_event.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_group_event.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_sent_location.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_sent_location.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_block_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_block_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_user.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_user.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_clickable.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_clickable.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_img.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/img.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_keyboard_arrow_right_big.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_keyboard_arrow_right_big.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_fragment_customize.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/fragment_customize.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_round_cornes_blue.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/round_cornes_blue.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_rectangle_corners_up.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_rectangle_corners_up.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_new_account.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_new_account.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/menu_menu_action_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/menu/menu_action_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_attach_gallery.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/attach_gallery.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_attach_file.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_attach_file.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_received_file.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_received_file.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-mdpi_baseline_phone_black_24.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-mdpi/baseline_phone_black_24.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_verification.json.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/verification.json"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_user_img_wrapped.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/user_img_wrapped.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_message.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_message.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_my_status.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_my_status.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable-xxhdpi_attach_contact.webp.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable-xxhdpi/attach_contact.webp"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/raw_calls.json.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/raw/calls.json"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_content_my_status.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/content_my_status.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_phone_call.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_phone_call.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_new_info.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_new_info.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_my_status.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_my_status.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_phone_number.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_phone_number.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_active_icon_bg.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/active_icon_bg.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_refresh.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_backup_chat.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_backup_chat.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_share.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_exit_to_app.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_exit_to_app.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_qr_scan.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_qr_scan.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_user_img_wrapped_black.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/user_img_wrapped_black.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_exit_to_app_white.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_exit_to_app_white.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_more_horiz.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_more_horiz.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_fullscreen.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_fullscreen.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_ic_notifications.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_example.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_example.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_view_status.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_view_status.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_activity_forward.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/activity_forward.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/layout_row_arrow.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/layout/row_arrow.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/xml_provider_paths.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_circle_bg_status.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/circle_bg_status.xml"
+    },
+    {
+        "merged": "com.teamxdevelopers.SuperChat.app-merged_res-95:/drawable_bg_qr.xml.flat",
+        "source": "com.teamxdevelopers.SuperChat.app-main-97:/drawable/bg_qr.xml"
+    }
+]

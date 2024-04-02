@@ -1,0 +1,7 @@
+#Mon Apr 01 17:01:07 SGT 2024
+base.0=C\:\\Users\\motor\\OneDrive\\Desktop\\Year 2.2\\Jackson mobile security\\Final_MobSec_ChatApp\\ChatHere_Code_WithStringEncryptionFunction\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\motor\\OneDrive\\Desktop\\Year 2.2\\Jackson mobile security\\Final_MobSec_ChatApp\\ChatHere_Code_WithStringEncryptionFunction\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\7\\classes.dex
+path.0=0/classes.dex
+path.1=7/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

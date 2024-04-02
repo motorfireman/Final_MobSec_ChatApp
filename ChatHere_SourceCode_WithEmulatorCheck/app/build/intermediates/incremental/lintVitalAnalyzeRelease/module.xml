@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\motor\OneDrive\Desktop\Year 2.2\Jackson mobile security\Final_MobSec_ChatApp\ChatHere_Code_WithStringEncryptionFunction\app"
+    name=":app"
+    type="APP"
+    maven="ChatHere_Code_WithStringEncryptionFunction:app:"
+    gradle="7.2.2"
+    buildFolder="build"
+    bootClassPath="C:\Users\motor\AppData\Local\Android\Sdk\platforms\android-33\android.jar;C:\Users\motor\AppData\Local\Android\Sdk\build-tools\31.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

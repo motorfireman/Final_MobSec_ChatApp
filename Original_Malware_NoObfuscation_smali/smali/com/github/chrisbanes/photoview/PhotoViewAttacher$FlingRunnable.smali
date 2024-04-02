@@ -1,0 +1,374 @@
+.class Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;
+.super Ljava/lang/Object;
+.source "PhotoViewAttacher.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/github/chrisbanes/photoview/PhotoViewAttacher;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x2
+    name = "FlingRunnable"
+.end annotation
+
+
+# instance fields
+.field private mCurrentX:I
+
+.field private mCurrentY:I
+
+.field private final mScroller:Landroid/widget/OverScroller;
+
+.field final synthetic this$0:Lcom/github/chrisbanes/photoview/PhotoViewAttacher;
+
+
+# direct methods
+.method public constructor <init>(Lcom/github/chrisbanes/photoview/PhotoViewAttacher;Landroid/content/Context;)V
+    .locals 0
+    .param p2, "context"    # Landroid/content/Context;
+
+    .line 762
+    iput-object p1, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->this$0:Lcom/github/chrisbanes/photoview/PhotoViewAttacher;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 763
+    new-instance p1, Landroid/widget/OverScroller;
+
+    invoke-direct {p1, p2}, Landroid/widget/OverScroller;-><init>(Landroid/content/Context;)V
+
+    iput-object p1, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mScroller:Landroid/widget/OverScroller;
+
+    .line 764
+    return-void
+.end method
+
+
+# virtual methods
+.method public cancelFling()V
+    .locals 2
+
+    .line 767
+    iget-object v0, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mScroller:Landroid/widget/OverScroller;
+
+    const/4 v1, 0x1
+
+    invoke-virtual {v0, v1}, Landroid/widget/OverScroller;->forceFinished(Z)V
+
+    .line 768
+    return-void
+.end method
+
+.method public fling(IIII)V
+    .locals 22
+    .param p1, "viewWidth"    # I
+    .param p2, "viewHeight"    # I
+    .param p3, "velocityX"    # I
+    .param p4, "velocityY"    # I
+
+    .line 772
+    move-object/from16 v0, p0
+
+    move/from16 v1, p1
+
+    move/from16 v2, p2
+
+    iget-object v3, v0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->this$0:Lcom/github/chrisbanes/photoview/PhotoViewAttacher;
+
+    invoke-virtual {v3}, Lcom/github/chrisbanes/photoview/PhotoViewAttacher;->getDisplayRect()Landroid/graphics/RectF;
+
+    move-result-object v3
+
+    .line 773
+    .local v3, "rect":Landroid/graphics/RectF;
+    if-nez v3, :cond_0
+
+    .line 774
+    return-void
+
+    .line 776
+    :cond_0
+    iget v4, v3, Landroid/graphics/RectF;->left:F
+
+    neg-float v4, v4
+
+    invoke-static {v4}, Ljava/lang/Math;->round(F)I
+
+    move-result v4
+
+    .line 778
+    .local v4, "startX":I
+    int-to-float v5, v1
+
+    invoke-virtual {v3}, Landroid/graphics/RectF;->width()F
+
+    move-result v6
+
+    cmpg-float v5, v5, v6
+
+    if-gez v5, :cond_1
+
+    .line 779
+    const/4 v5, 0x0
+
+    .line 780
+    .local v5, "minX":I
+    invoke-virtual {v3}, Landroid/graphics/RectF;->width()F
+
+    move-result v6
+
+    int-to-float v7, v1
+
+    sub-float/2addr v6, v7
+
+    invoke-static {v6}, Ljava/lang/Math;->round(F)I
+
+    move-result v6
+
+    move/from16 v16, v5
+
+    move v15, v6
+
+    .local v6, "maxX":I
+    goto :goto_0
+
+    .line 782
+    .end local v5    # "minX":I
+    .end local v6    # "maxX":I
+    :cond_1
+    move v6, v4
+
+    .restart local v6    # "maxX":I
+    move v5, v4
+
+    move/from16 v16, v5
+
+    move v15, v6
+
+    .line 784
+    .end local v6    # "maxX":I
+    .local v15, "maxX":I
+    .local v16, "minX":I
+    :goto_0
+    iget v5, v3, Landroid/graphics/RectF;->top:F
+
+    neg-float v5, v5
+
+    invoke-static {v5}, Ljava/lang/Math;->round(F)I
+
+    move-result v14
+
+    .line 785
+    .local v14, "startY":I
+    int-to-float v5, v2
+
+    invoke-virtual {v3}, Landroid/graphics/RectF;->height()F
+
+    move-result v6
+
+    cmpg-float v5, v5, v6
+
+    if-gez v5, :cond_2
+
+    .line 786
+    const/4 v5, 0x0
+
+    .line 787
+    .local v5, "minY":I
+    invoke-virtual {v3}, Landroid/graphics/RectF;->height()F
+
+    move-result v6
+
+    int-to-float v7, v2
+
+    sub-float/2addr v6, v7
+
+    invoke-static {v6}, Ljava/lang/Math;->round(F)I
+
+    move-result v6
+
+    move/from16 v17, v5
+
+    move v13, v6
+
+    .local v6, "maxY":I
+    goto :goto_1
+
+    .line 789
+    .end local v5    # "minY":I
+    .end local v6    # "maxY":I
+    :cond_2
+    move v6, v14
+
+    .restart local v6    # "maxY":I
+    move v5, v14
+
+    move/from16 v17, v5
+
+    move v13, v6
+
+    .line 791
+    .end local v6    # "maxY":I
+    .local v13, "maxY":I
+    .local v17, "minY":I
+    :goto_1
+    iput v4, v0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mCurrentX:I
+
+    .line 792
+    iput v14, v0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mCurrentY:I
+
+    .line 794
+    if-ne v4, v15, :cond_4
+
+    if-eq v14, v13, :cond_3
+
+    goto :goto_2
+
+    :cond_3
+    move/from16 v20, v13
+
+    move/from16 v21, v14
+
+    move/from16 v18, v15
+
+    goto :goto_3
+
+    .line 795
+    :cond_4
+    :goto_2
+    iget-object v5, v0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mScroller:Landroid/widget/OverScroller;
+
+    const/16 v18, 0x0
+
+    const/16 v19, 0x0
+
+    move v6, v4
+
+    move v7, v14
+
+    move/from16 v8, p3
+
+    move/from16 v9, p4
+
+    move/from16 v10, v16
+
+    move v11, v15
+
+    move/from16 v12, v17
+
+    move/from16 v20, v13
+
+    .end local v13    # "maxY":I
+    .local v20, "maxY":I
+    move/from16 v21, v14
+
+    .end local v14    # "startY":I
+    .local v21, "startY":I
+    move/from16 v14, v18
+
+    move/from16 v18, v15
+
+    .end local v15    # "maxX":I
+    .local v18, "maxX":I
+    move/from16 v15, v19
+
+    invoke-virtual/range {v5 .. v15}, Landroid/widget/OverScroller;->fling(IIIIIIIIII)V
+
+    .line 798
+    :goto_3
+    return-void
+.end method
+
+.method public run()V
+    .locals 5
+
+    .line 802
+    iget-object v0, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mScroller:Landroid/widget/OverScroller;
+
+    invoke-virtual {v0}, Landroid/widget/OverScroller;->isFinished()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    .line 803
+    return-void
+
+    .line 805
+    :cond_0
+    iget-object v0, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mScroller:Landroid/widget/OverScroller;
+
+    invoke-virtual {v0}, Landroid/widget/OverScroller;->computeScrollOffset()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_1
+
+    .line 806
+    iget-object v0, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mScroller:Landroid/widget/OverScroller;
+
+    invoke-virtual {v0}, Landroid/widget/OverScroller;->getCurrX()I
+
+    move-result v0
+
+    .line 807
+    .local v0, "newX":I
+    iget-object v1, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mScroller:Landroid/widget/OverScroller;
+
+    invoke-virtual {v1}, Landroid/widget/OverScroller;->getCurrY()I
+
+    move-result v1
+
+    .line 808
+    .local v1, "newY":I
+    iget-object v2, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->this$0:Lcom/github/chrisbanes/photoview/PhotoViewAttacher;
+
+    invoke-static {v2}, Lcom/github/chrisbanes/photoview/PhotoViewAttacher;->access$200(Lcom/github/chrisbanes/photoview/PhotoViewAttacher;)Landroid/graphics/Matrix;
+
+    move-result-object v2
+
+    iget v3, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mCurrentX:I
+
+    sub-int/2addr v3, v0
+
+    int-to-float v3, v3
+
+    iget v4, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mCurrentY:I
+
+    sub-int/2addr v4, v1
+
+    int-to-float v4, v4
+
+    invoke-virtual {v2, v3, v4}, Landroid/graphics/Matrix;->postTranslate(FF)Z
+
+    .line 809
+    iget-object v2, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->this$0:Lcom/github/chrisbanes/photoview/PhotoViewAttacher;
+
+    invoke-static {v2}, Lcom/github/chrisbanes/photoview/PhotoViewAttacher;->access$300(Lcom/github/chrisbanes/photoview/PhotoViewAttacher;)V
+
+    .line 810
+    iput v0, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mCurrentX:I
+
+    .line 811
+    iput v1, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->mCurrentY:I
+
+    .line 813
+    iget-object v2, p0, Lcom/github/chrisbanes/photoview/PhotoViewAttacher$FlingRunnable;->this$0:Lcom/github/chrisbanes/photoview/PhotoViewAttacher;
+
+    invoke-static {v2}, Lcom/github/chrisbanes/photoview/PhotoViewAttacher;->access$400(Lcom/github/chrisbanes/photoview/PhotoViewAttacher;)Landroid/widget/ImageView;
+
+    move-result-object v2
+
+    invoke-static {v2, p0}, Lcom/github/chrisbanes/photoview/Compat;->postOnAnimation(Landroid/view/View;Ljava/lang/Runnable;)V
+
+    .line 815
+    .end local v0    # "newX":I
+    .end local v1    # "newY":I
+    :cond_1
+    return-void
+.end method

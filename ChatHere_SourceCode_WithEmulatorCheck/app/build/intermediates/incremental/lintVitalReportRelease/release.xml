@@ -1,0 +1,138 @@
+<variant
+    name="release"
+    useSupportLibraryVectorDrawables="true"
+    package="com.teamxdevelopers.SuperChat"
+    minSdkVersion="24"
+    targetSdkVersion="33"
+    shrinking="true"
+    mergedManifest="build\intermediates\merged_manifest\release\AndroidManifest.xml"
+    manifestMergeReport="build\outputs\logs\manifest-merger-release-report.txt"
+    proguardFiles="build\intermediates\default_proguard_files\global\proguard-android.txt-7.2.2;proguard-rules.pro"
+    partialResultsDir="build\intermediates\lint_vital_partial_results\release\out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin"
+        resDirectories="src\main\res"
+        assetsDirectories="src\main\assets"/>
+    <sourceProvider
+        manifest="src\release\AndroidManifest.xml"
+        javaDirectories="src\release\java;src\release\kotlin"
+        resDirectories="src\release\res"
+        assetsDirectories="src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <resValues>
+    <resValue
+        type="string"
+        name="account_link"
+        value="www.google.com" />
+    <resValue
+        type="string"
+        name="admob_app_id"
+        value="ca-app-pub-3940256099942544~3347511713" />
+    <resValue
+        type="string"
+        name="agora_app_id"
+        value="e399dcc4bde349c886862a19cbbe2e9d" />
+    <resValue
+        type="string"
+        name="app_folder_name"
+        value="Super Chat" />
+    <resValue
+        type="string"
+        name="app_name"
+        value="ChatHere" />
+    <resValue
+        type="string"
+        name="banner_unit_id_main"
+        value="" />
+    <resValue
+        type="string"
+        name="banner_unit_id_new_chat"
+        value="" />
+    <resValue
+        type="string"
+        name="email"
+        value="https://www.gmail.com" />
+    <resValue
+        type="string"
+        name="encryptionWeb"
+        value="https://www.google.com" />
+    <resValue
+        type="string"
+        name="encryption_type"
+        value="AES" />
+    <resValue
+        type="string"
+        name="fb_account"
+        value="https://www.facebook.com" />
+    <resValue
+        type="string"
+        name="foursquare_client_id"
+        value="3TT4JDOWJ3J1MK5RASSWAHECPUEJQUZQAAGL4DSMAMYKBISW" />
+    <resValue
+        type="string"
+        name="foursquare_client_secret"
+        value="C1JRUA1N3ZQNJHVC154DS4QRSLJDQDCNLUOLY3FZ4SK3SSSE" />
+    <resValue
+        type="string"
+        name="group_invite_host"
+        value="www.google.com" />
+    <resValue
+        type="bool"
+        name="ignore_battery_optimizations_dialog"
+        value="true" />
+    <resValue
+        type="string"
+        name="interstitial_ad_id"
+        value="" />
+    <resValue
+        type="string"
+        name="maps_api_key"
+        value="AIzaSyAnPZ5-c0KCTMKeoGtEduq2K2EURofChlY" />
+    <resValue
+        type="integer"
+        name="max_broadcast_users_count"
+        value="300" />
+    <resValue
+        type="integer"
+        name="max_group_call_count"
+        value="11" />
+    <resValue
+        type="integer"
+        name="max_group_users_count"
+        value="500" />
+    <resValue
+        type="integer"
+        name="max_status_video_time"
+        value="30" />
+    <resValue
+        type="string"
+        name="memojiBaseUrl"
+        value="https://www.google.com" />
+    <resValue
+        type="string"
+        name="website"
+        value="https://www.google.com" />
+    <resValue
+        type="string"
+        name="your_company_name"
+        value="SIT TEAM 15" />
+    <resValue
+        type="string"
+        name="yt_account"
+        value="https://www.youtube.com" />
+  </resValues>
+  <mainArtifact
+      classOutputs="build\intermediates\javac\release\classes;build\tmp\kotlin-classes\release;build\tmp\kapt3\classes\release;build\kotlinToolingMetadata;build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.ceyloncode.Jackson.MedicalChat"
+      generatedSourceFolders="build\generated\source\buildConfig\release;build\generated\aidl_source_output_dir\release\out;build\generated\renderscript_source_output_dir\release\out;build\generated\source\kapt\release;build\generated\ap_generated_sources\release\out"
+      generatedResourceFolders="build\generated\crashlytics\res\release;build\generated\res\google-services\release;build\generated\res\rs\release;build\generated\res\resValues\release">
+  </mainArtifact>
+</variant>

@@ -1,0 +1,10 @@
+#Tue Apr 02 01:28:48 SGT 2024
+base.0=C\:\\Users\\motor\\OneDrive\\Desktop\\Year 2.2\\Jackson mobile security\\Final_MobSec_ChatApp\\ChatHere_Code_WithStringEncryptionFunction\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+base.1=C\:\\Users\\motor\\OneDrive\\Desktop\\Year 2.2\\Jackson mobile security\\Final_MobSec_ChatApp\\ChatHere_Code_WithStringEncryptionFunction\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes2.dex
+base.2=C\:\\Users\\motor\\OneDrive\\Desktop\\Year 2.2\\Jackson mobile security\\Final_MobSec_ChatApp\\ChatHere_Code_WithStringEncryptionFunction\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes3.dex
+path.0=classes.dex
+path.1=classes2.dex
+path.2=classes3.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
